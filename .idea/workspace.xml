@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a4c5fe7-17f3-4939-bb1e-f44d06b02bae" name="Default" comment="" />
+    <list default="true" id="3a4c5fe7-17f3-4939-bb1e-f44d06b02bae" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,8 +47,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
-              <caret line="335" selection-start-line="335" selection-end-line="335" />
+            <state relative-caret-position="309">
+              <caret line="317" lean-forward="true" selection-start-line="317" selection-end-line="317" />
             </state>
           </provider>
         </entry>
@@ -193,7 +195,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -286,7 +288,7 @@
       <workItem from="1594147390298" duration="14109000" />
       <workItem from="1594488464895" duration="597000" />
       <workItem from="1594580874744" duration="12886000" />
-      <workItem from="1595184963394" duration="23366000" />
+      <workItem from="1595184963394" duration="23910000" />
     </task>
     <task id="LOCAL-00001" summary="add to-do-list">
       <created>1595434887574</created>
@@ -299,7 +301,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104583000" />
+    <option name="totallyTimeSpent" value="105127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -745,8 +747,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="335" selection-start-line="335" selection-end-line="335" />
+        <state relative-caret-position="309">
+          <caret line="317" lean-forward="true" selection-start-line="317" selection-end-line="317" />
         </state>
       </provider>
     </entry>
