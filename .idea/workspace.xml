@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a4c5fe7-17f3-4939-bb1e-f44d06b02bae" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3a4c5fe7-17f3-4939-bb1e-f44d06b02bae" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/modules/task.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3885">
@@ -40,6 +38,15 @@
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="335" selection-start-line="335" selection-end-line="335" />
             </state>
           </provider>
         </entry>
@@ -279,7 +286,7 @@
       <workItem from="1594147390298" duration="14109000" />
       <workItem from="1594488464895" duration="597000" />
       <workItem from="1594580874744" duration="12886000" />
-      <workItem from="1595184963394" duration="23295000" />
+      <workItem from="1595184963394" duration="23366000" />
     </task>
     <task id="LOCAL-00001" summary="add to-do-list">
       <created>1595434887574</created>
@@ -292,7 +299,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104512000" />
+    <option name="totallyTimeSpent" value="104583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -733,6 +740,13 @@
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="335" selection-start-line="335" selection-end-line="335" />
         </state>
       </provider>
     </entry>
